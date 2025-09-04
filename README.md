@@ -48,8 +48,3 @@ python main.py
 
 Contributions are always welcome!
 Please fork the repo and submit a pull request.
-
-👨‍💻 Author
-
-Rishabh Damle
-Built with ❤️ and Python, inspired by the magic of genies. 🧞‍♂️
