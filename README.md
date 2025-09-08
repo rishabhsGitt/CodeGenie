@@ -1,4 +1,4 @@
-<h1 align="center">✨ CodeGenie – Your AI Coding Assistant</h1>
+<h1 align="center">🧞‍♂️💻 CodeGenie – Your AI Coding Assistant</h1>
 
 <p align="center">
   <b>CodeGenie</b> is an AI-powered coding agent built in Python.  
@@ -33,7 +33,7 @@
 | **Models**     | Transformers / LLM Models       |
 | **API**        | OpenAI API / Custom LLM backend |
 | **Server**     | FastAPI / Flask                 |
-| **Deployment** | Docker (optional)               |
+| **Deployment** | Docker                          |
 
 ---
 
